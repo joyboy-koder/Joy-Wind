@@ -27,4 +27,4 @@ Each card was designed to look minimal yet visually appealing, ready to fit into
 ---
 
 ## 🌐 Live Demo
-> https://joyboy-koder.github.io/Tailwindcss-CARDS/  
+> https://joyboy-koder.github.io/Joy-Wind/
