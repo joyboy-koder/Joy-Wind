@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <title>TailwindCSS-Pure-Color-Form</title>
+</head>
+
+<body>
+    <div class="min-h-screen bg-purple-600 py-32 px-10">
+
+        <form action="" class="md:w-1/2 mx-auto text-xl">
+            <div class="shadow-xl">
+                <div class="flex items-center bg-purple-400 rounded-t border-b border-purple-500">
+                    <label class="w-20 text-right mr-8 font-bold text-purple-200" for="fullname">Name</label>
+                    <input class="p-4 pl-0 flex-1 bg-transparent placeholder-purple-300 outline-none text-white"
+                        type="text" name="name" id="fullname" placeholder="Kev Dasah">
+                </div>
+
+                <div class="flex items-center mb-10 bg-purple-400 rounded-b">
+                    <label class="w-20 text-right mr-8 font-bold text-purple-200" for="twitter">Twitter</label>
+                    <input class="p-4 pl-0 flex-1 bg-transparent placeholder-purple-300 outline-none text-white"
+                        type="text" id="twitter" name="twitter" placeholder="@kevtag">
+                </div>
+            </div>
+
+            <button class="block w-full bg-pink-400 rounded py-3 font-bold text-white">Submit</button>
+        </form>
+
+    </div>
+</body>
+
+</html>
