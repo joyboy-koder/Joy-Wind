@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <title>Tailwindcss-Basic-form1</title>
+</head>
+
+<body>
+    <div class="min-h-screen py-32 px-10 bg-blue-200">
+
+        <div class="bg-white p-10 rounded-lg shadow md:w-3/4 mx-auto lg:w-1/2">
+
+            <form action="">
+
+                <div class="mb-5">
+                    <label class="block mb-2 text-xl font-bold text-gray-600" for="fullname">Name</label>
+                    <input class="border border-gray-300 p-3 rounded shadow w-full" type="text" name="name"
+                        id="fullname" placeholder="Kev Dasah">
+                </div>
+
+                <div class="mb-10">
+                    <label class="block mb-2 text-xl font-bold text-gray-600" for="twitter">Twitter</label>
+                    <input class="border border-gray-300 p-3 rounded shadow w-full" type="text" name="twitter"
+                        id="twitter" placeholder="@kevtag">
+
+                    <p class="text-sm text-red-400 mt-2">Twitter username is required</p>
+                </div>
+
+                <button class="w-full block bg-blue-500 p-4 rounded text-white font-bold">Submit</button>
+
+            </form>
+
+        </div>
+
+    </div>
+</body>
+
+</html>
