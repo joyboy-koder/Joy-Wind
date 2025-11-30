@@ -12,3 +12,6 @@ Built with **Tailwind CSS**, this form showcases:
 - Minimal yet modern design  
 
 Enjoy the simplicity. Feel the color. Tailwind made it joyful.  
+
+## Live Demo
+> https://joyboy-koder.github.io/Joy-Wind/
