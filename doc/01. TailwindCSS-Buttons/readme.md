@@ -25,4 +25,4 @@ I wanted to explore how Tailwind utility classes can be used to design beautiful
 - **Tailwind CSS**
 
 ## 🌐 Live Demo
-> https://joyboy-koder.github.io/Joy-Wind/doc/01. TailwindCSS-Buttons/
+> https://joyboy-koder.github.io/Joy-Wind/doc/01.TailwindCSS-Buttons/
