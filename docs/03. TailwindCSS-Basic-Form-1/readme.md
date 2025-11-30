@@ -35,4 +35,4 @@ Created by **J** 💻
 ---
 
 ### 🔗 Try it out:
-👉 [Live Demo](#) *(https://joyboy-koder.github.io/Tailwindcss-Basic-Form1/)*  
+👉 [Live Demo](#) *(https://joyboy-koder.github.io/Joy-Wind/)*  
