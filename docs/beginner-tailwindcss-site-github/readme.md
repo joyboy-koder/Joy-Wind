@@ -21,4 +21,4 @@ This project was created as part of my learning journey to understand how Tailwi
 - How to build a responsive website from scratch  
 
  ## 🌐 Live Demo
- > https://joyboy-koder.github.io/Beginner-TailwindCSS-Site/
+ > https://joyboy-koder.github.io/Joy-Wind/
